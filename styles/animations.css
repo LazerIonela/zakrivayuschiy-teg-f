@@ -40,6 +40,10 @@
     }
   }
 
+.like-icon {
+  transform-origin: center;
+}
+
 .like-icon .core {
   fill: none;
   transition: fill 0.3s 0.03s linear;
